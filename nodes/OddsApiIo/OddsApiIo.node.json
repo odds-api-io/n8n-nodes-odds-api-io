@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-odds-api-io.oddsApiIo",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Analytics"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/odds-api-io/n8n-nodes-odds-api-io?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/odds-api-io/n8n-nodes-odds-api-io?tab=readme-ov-file"
+			}
+		]
+	}
+}
