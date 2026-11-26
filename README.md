@@ -58,7 +58,7 @@ The key is sent as the `apiKey` query parameter, which is how the API authentica
 
 ## Compatibility
 
-Built and tested against n8n 2.x with `@n8n/node-cli` 0.58. Path parameters use `toPathSegment`, so n8n 2.46.1 or later is required.
+Built with `@n8n/node-cli` 0.58 against `n8n-workflow` 2.49. Path parameters use `toPathSegment`, so n8n 2.46.1 or later is required.
 
 ## Usage
 
